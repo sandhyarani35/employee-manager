@@ -1,1 +1,13 @@
+# Java / Maven
+backend/target/
+*.class
+*.jar
 
+# React / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.idea/
+.DS_Store
